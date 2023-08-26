@@ -1,15 +1,15 @@
 # Config files, logs and stuff 
- TrickyHeaven/modules/helper_funcs/temp.txt 
- TrickyHeaven/elevated_users.json 
- TrickyHeaven/config.py 
- TrickyHeaven/config.ini 
+ TrickyRobot/modules/helper_funcs/temp.txt 
+ TrickyRobot/elevated_users.json 
+ TrickyRobot/config.py 
+ TrickyRobot/config.ini 
  log.txt 
  kangsticker.png 
  updates.txt 
   
  # Session files 
- TrickyHeaven/*.session 
- TrickyHeaven/*.session-journal 
+ TrickyRobot/*.session 
+ TrickyRobot/*.session-journal 
  Tricky.session-journal 
  *.session 
   
