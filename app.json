@@ -8,7 +8,7 @@
         "group", 
         "manager" 
      ],    
-  "repository": "https://github.com/Noob-Bholu/TrickyHeaven", 
+  "repository": "https://github.com/Noob-Bholu/TrickyRobot", 
   "stack": "heroku-22", 
   "addons": [ 
      { 
