@@ -64,11 +64,11 @@
  # Pypi package Repo upgrade 
  RUN pip3 install --upgrade pip setuptools 
   
- RUN git clone https://github.com/Noob-Bholu/TrickyHeaven/root/TrickyRobot 
+ RUN git clone https://github.com/Noob-Bholu/TrickyRobot/root/TrickyRobot 
  WORKDIR /root/TrickyRobot 
   
- #Copy config file to /root/TrickyHeaven/TrickyRobot 
- COPY ./TrickyRobot/config.py ./TrickyRobot/config.py* /root/TrickyHeaven/TrickyRobot/ 
+ #Copy config file to /root/TrickyRobot/TrickyRobot 
+ COPY ./TrickyRobot/config.py ./TrickyRobot/config.py* /root/TrickyRobot/TrickyRobot/ 
   
  ENV PATH="/home/bot/bin:$PATH" 
   
