@@ -27,5 +27,5 @@
  :-------------------------------------- 
  :: your commands begin from this point. 
  :: stops the service and then starts it  
- net stop TrickyHeaven
- net start TrickyHeaven
+ net stop TrickyRobot
+ net start TrickyRobot
